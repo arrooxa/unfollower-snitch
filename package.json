@@ -1,0 +1,21 @@
+{
+  "name": "unfollow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/underscore": "^1.11.2",
+    "dotenv": "^10.0.0",
+    "instagram-private-api": "^1.45.1",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.2",
+    "underscore": "^1.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node main.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
